@@ -1,1 +1,3 @@
 # Learning-GIthub-Kadjo
+
+This is my first description ...
